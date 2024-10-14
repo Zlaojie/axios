@@ -79,3 +79,6 @@ function processOrder(order) {
 
   return total;
 }
+
+let aaa = 1;
+console.log(aaa);
